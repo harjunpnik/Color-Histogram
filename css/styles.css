@@ -1,0 +1,19 @@
+body{
+    background-color: #333333;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+#info{
+    color: white;
+}
+p{
+    color: black;
+}
+button{
+    color: black;
+}
+#pictureCanvas{
+    width: 95vw;
+    height: 55vw;
+}
